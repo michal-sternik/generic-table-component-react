@@ -1,5 +1,5 @@
 {
-  "name": "generic-table-component-react",
+  "name": "@michal-sternik/generic-table-component-react",
   "version": "0.0.1",
   "description": "Generic table component library.",
   "scripts": {
@@ -26,5 +26,8 @@
   "types": "dist/index.d.ts",
   "dependencies": {
     "tslib": "^2.6.2"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/michal-sternik"
   }
 }
