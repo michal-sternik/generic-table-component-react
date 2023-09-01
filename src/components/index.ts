@@ -1,0 +1,1 @@
+export { default as GenericTableComponent } from "./generic-table-component"
