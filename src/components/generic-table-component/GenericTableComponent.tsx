@@ -1,4 +1,5 @@
 import React from "react";
+import "./GenericTableComponent.css";
 
 export interface TableProps {
   label: string;
